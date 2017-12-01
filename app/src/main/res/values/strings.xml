@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show_empty_text_message">You cannot add an empty Person Name</string>
+    <string name="show_empty_date_message">You cannot add an empty Date</string>
+    <string name="information_added_message">Your information has been added to the list</string>
+    <string name="add_person_information">Add Person Information</string>
+    <string name="person_list">Person List</string>
+    <string name="show_list">Show List</string>
+    <string name="add_date">Add Date</string>
+</resources>
